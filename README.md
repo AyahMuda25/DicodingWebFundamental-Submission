@@ -3,4 +3,4 @@ Final Submission Dicoding
 
 Submission
 
-Theme: CV, Technologies: HTML, CSS, Javascript, and Javascript DOM.
+Theme: CV, Technologies: HTML, CSS, JavaScript, and JavaScript DOM.
