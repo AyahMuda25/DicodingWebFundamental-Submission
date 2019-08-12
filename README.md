@@ -1,5 +1,5 @@
 # DicodingWebFundamental-Submission
-Final Submission Dicoding
+Final Submission of https://www.dicoding.com/academies/123 class
 
 Submission
 
